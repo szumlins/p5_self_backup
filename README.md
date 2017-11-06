@@ -1,8 +1,11 @@
 # p5_self_backup
+
 Automated backup for Archiware P5
 
-## Requirements
+### Requirements
+
 Python 2.6 or newer
+
 Tested on CentOS 6, CentOS 7, and MacOS El Capitan and Sierra
 
 ### Options overview
